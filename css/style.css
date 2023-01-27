@@ -211,6 +211,11 @@ nav .hamburger-btn {
 
 
 @media (max-width: 768px) {
+    .container {
+        width: 83%;
+        margin: 0 auto;
+    }
+
     /* Header */
     header {
         min-height: 79vh;
