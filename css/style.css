@@ -386,7 +386,32 @@ nav .hamburger-btn {
     /* End of Testimonials setion */
 
     /* Members section */
+    .members h2 { 
+        text-align: left;
+        font-size: 1.6rem;
+    }
+    
+    .member-list {
+        margin-top: 40px;
+    }
+
     .member-card {
         width: 100%;
+    }
+
+    .member-card h3 {
+        font-size: 1.1rem;
+    }
+    
+    .member-card p {
+        font-size: 0.9rem;
+    }
+
+    .member-card__qualification li {
+        font-size: 0.8rem;
+    }
+
+    .member-card__linkedin a {
+        font-size: 1rem;
     }
 }
