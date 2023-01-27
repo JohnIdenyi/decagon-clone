@@ -178,10 +178,10 @@ nav .hamburger-btn {
     height: 269px;
 }
 
-.testimonial-image {
+/* .testimonial-image {
     max-width: 100%;
     height: auto;
-}
+} */
 
 .testimonial-text {
     font-size: 1.5rem;
@@ -301,8 +301,8 @@ nav .hamburger-btn {
         height: 312px;
         display: block;
         margin: 0 auto; */
-        max-width: 100%;
-        height: auto;
+        /* max-width: 100%;
+        height: auto; */
     }
 
     .testimonial-text {
