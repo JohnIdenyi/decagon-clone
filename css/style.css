@@ -173,15 +173,19 @@ nav .hamburger-btn {
     padding: 80px 0;
 }
 
+.testimonial-container .image-container {
+    width: 40%;
+}
+
 .text-container {
     width: 443px;
     height: 269px;
 }
 
-/* .testimonial-image {
+.testimonial-image {
     max-width: 100%;
     height: auto;
-} */
+}
 
 .testimonial-text {
     font-size: 1.5rem;
@@ -296,15 +300,10 @@ nav .hamburger-btn {
         width: 100%;
     }
 
-    .testimonial-image {
-        /* width: 392px;
-        height: 312px;
-        display: block;
-        margin: 0 auto; */
-        /* max-width: 100%;
-        height: auto; */
+    .testimonial-container .image-container {
+        width: 100%;
     }
-
+    
     .testimonial-text {
         margin-top: 28px;
         font-size: 1.1rem;
