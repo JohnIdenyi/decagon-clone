@@ -163,13 +163,12 @@ nav .hamburger-btn {
 
 /* End of Why section */
 
-/* Testimonial section */
-.testimonial {
-    background-color: #ccc;
-    background: linear-gradient( 180deg, rgba(249, 250, 251, 0.7) 0, rgba(245, 249, 231, 0.7) 100% );
-}
 
-.testimonial-container {
+/******* Section group */
+
+/* Testimonial section */
+.section-group {
+    background: linear-gradient( 180deg, rgba(249, 250, 251, 0.7) 0, rgba(245, 249, 231, 0.7) 100% );
     padding: 80px 0;
 }
 
@@ -204,7 +203,67 @@ nav .hamburger-btn {
     opacity: 0.5;
 }
 
-/* End of Testimonial section */
+/* Members section */
+.members {
+    margin-top: 80px;
+}
+.members h2 {
+    text-align: center;
+    font-size: 2.2rem;
+    font-weight: 800;
+    color: #2c3134;
+}
+
+.member-list {
+    margin-top: 60px;
+    flex-wrap: wrap;
+    gap: 2rem;
+}
+
+.member-card {
+    background-color: #fff;
+    padding: 31px;
+    width: 45%;
+}
+
+.member-card h3 {
+    color: #2c3134;
+    font-size: 1.4rem;
+    font-weight: 600;
+    margin-top: 40px;
+}
+
+.member-card p {
+    color: #2c3134;
+    opacity: 0.5;
+    margin: 8px 0 30px 0;
+}
+
+.member-card__qualification {
+    padding-left: 20px;
+    margin-bottom: 60px;
+}
+
+.member-card__qualification li {
+    padding-bottom: 15px;
+    color: #2c3134;
+}
+
+.member-card__linkedin a {
+    text-decoration: none;
+    color: #2c3134;
+    font-size: 1.3rem;
+}
+
+.member-card__linkedin img {
+    vertical-align: middle;
+}
+
+.member-card__linkedin span {
+    padding-left: 1.4rem;
+}
+
+
 
 
 
@@ -325,4 +384,9 @@ nav .hamburger-btn {
     }
 
     /* End of Testimonials setion */
+
+    /* Members section */
+    .member-card {
+        width: 100%;
+    }
 }
