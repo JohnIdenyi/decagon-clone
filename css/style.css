@@ -223,7 +223,7 @@ nav .hamburger-btn {
 .member-card {
     background-color: #fff;
     padding: 31px;
-    width: 45%;
+    width: 48%;
 }
 
 .member-card h3 {
@@ -432,5 +432,6 @@ nav .hamburger-btn {
         text-align: center;
         padding: 18px;
         font-size: 0.8rem;
+        cursor: pointer;
     }
 }
