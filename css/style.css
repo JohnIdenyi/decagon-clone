@@ -273,12 +273,12 @@ nav .hamburger-btn {
 .partners-tech {
     background-color: #fff;
     padding: 60px 0;
-    font-size: 1rem;
 }
 
-.partners-tech h4 {
+.partners-tech h5 {
     color: green;
     text-align: center;
+    font-size: 1rem;
 }
 
 .partners-images {
