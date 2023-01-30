@@ -518,7 +518,6 @@ nav .hamburger-btn {
     
     .tech-skills {
         margin-top: 50px;
-        justify-content: space-between;
         flex-wrap: wrap;
     }
 
