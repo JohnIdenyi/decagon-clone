@@ -316,7 +316,6 @@ nav .hamburger-btn {
 .tech-skills {
     display: flex;
     justify-content: space-around;
-    flex-wrap: wrap;
     margin-top: 70px;
 }
 
@@ -519,6 +518,7 @@ nav .hamburger-btn {
     
     .tech-skills {
         margin-top: 50px;
+        flex-wrap: wrap;
     }
 
     .tech-skills p {
