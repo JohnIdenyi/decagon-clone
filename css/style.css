@@ -202,6 +202,7 @@ nav .hamburger-btn {
     margin-top: 12px;
     opacity: 0.5;
 }
+/* End of Testimonial section */
 
 /* Members section */
 .members {
@@ -266,6 +267,29 @@ nav .hamburger-btn {
 .member-mobile__link {
     display: none;
 }
+/* End of Members section */
+
+/* Partner-tech section */
+.partners-tech {
+    background-color: #fff;
+    padding: 60px 0;
+    font-size: 1rem;
+}
+
+.partners-tech h4 {
+    color: green;
+    text-align: center;
+}
+
+.partners-images {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 4rem;
+    margin-top: 40px;
+}
+
+
 
 
 
@@ -434,4 +458,9 @@ nav .hamburger-btn {
         font-size: 0.8rem;
         cursor: pointer;
     }
+
+    /* End of Members section */
+
+   
+
 }
