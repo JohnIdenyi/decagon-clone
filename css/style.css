@@ -506,6 +506,10 @@ nav .hamburger-btn {
         padding: 30px 0;
     }
 
+    .skills-container {
+        padding: 0 15px;
+    }
+
     .skills h2 {
         font-size: 1.6rem;
         line-height: 1.5em;
