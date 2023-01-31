@@ -334,11 +334,11 @@ nav .hamburger-btn {
 footer {
     background-color: #2c3134;
     color: #fff;
-    padding: 85px 0 50px 0;
 }
 
 .build-team {
     text-align: center;
+    padding: 85px 0 60px 0;
 }
 
 .build-team h3 {
@@ -347,7 +347,7 @@ footer {
 }
 
 .footer-section {
-    margin-top: 60px;
+    padding: 60px 0 50px 0;
     padding-top: 60px;
     border-top: 1px solid #ccc;
     flex-wrap: wrap;
@@ -606,14 +606,20 @@ footer {
    /* End of Skills section */
 
    /* Footer */
+   .build-team {
+        text-align: center;
+        padding-top: 60px;
+    }
+
    .build-team h3 {
         font-size: 2.5rem;
         line-height: 1em;
     }
 
     .footer-section {
-        padding-top: 60px;
+        padding-top: 38px;
     }
+    
 
     .footer-section .contact-links {
         order: 4;
