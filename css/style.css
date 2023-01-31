@@ -625,4 +625,9 @@ footer {
     .social-links a {
         padding: 0 10px;
     }
+
+    .footer-links li, 
+    .email-info a {
+        font-size: 0.85rem;
+    }
 }
