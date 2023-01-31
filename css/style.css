@@ -25,7 +25,7 @@ body {
 
 header {
     position: relative;
-    min-height: 97vh;
+    min-height: 94vh;
     background: url(../images/hero.jpg) no-repeat center center/cover;
 }
 
@@ -52,6 +52,13 @@ nav .nav-link {
     color: #34a853;
     padding: 12px 30px;
     font-size: 0.75rem;
+    transition: all 0.3s;
+}
+
+nav .nav-link:hover {
+    color: #fff;
+    background-color: #34a853;
+    transform: translateY(-3px);
 }
 
 nav .hamburger-btn {
@@ -417,7 +424,7 @@ footer {
 
     /* Header */
     header {
-        min-height: 79vh;
+        min-height: 74vh;
         background-position: right center;
     }
 
