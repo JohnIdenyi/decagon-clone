@@ -687,6 +687,10 @@ footer {
         display: none;
     }
 
+    .blog-card {
+        min-height: 25rem;
+    }
+
     .blog-card__details p {
         font-size: 1.1rem;
         line-height: 1.5em;
