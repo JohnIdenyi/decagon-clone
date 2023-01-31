@@ -1,2 +1,0 @@
-First thing to check tomorrow:
-1. Check testimonial image for both large and small screens.
